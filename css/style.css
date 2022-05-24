@@ -126,7 +126,8 @@ img {
 }
 
 
-.info {
+.info,
+.top {
     position: relative;
     min-height: 250px;
     display: flex;
@@ -248,7 +249,8 @@ img {
         padding: 0 20px;
     }
 
-    .info {
+    .info,
+    .top {
         display: flex;
         flex-wrap: wrap;
         min-height: 150px;
@@ -278,7 +280,7 @@ img {
 
     .about {
         line-height: 20px;
-        font-size: 12px;
+        font-size: 13px;
     }
 
     .block3 {
@@ -320,7 +322,7 @@ img {
     }
 
     .about {
-        font-size: 10px;
+        font-size: 11px;
     }
 
     .block3 {
